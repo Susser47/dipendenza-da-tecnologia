@@ -40,3 +40,8 @@ hr{
     background-color: rgb(88, 88, 88);
     color: rgb(88, 88, 88);
 }
+
+.bulletPoint{
+    text-decoration: none;
+    color: rgb(208, 208, 255);    
+}
